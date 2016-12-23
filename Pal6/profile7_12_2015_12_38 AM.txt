@@ -1,0 +1,8 @@
+﻿Pal Profiler create at[2015/7/12/0:38:40]
+Interact:OnDestroy()
+UnityEngine.Object:DestroyImmediate(Object, Boolean)
+UnityEngine.Object:DestroyImmediate(Object)
+SoftStar.Pal6.PalNPC:Start()
+
+Interact:OnDestroy()
+

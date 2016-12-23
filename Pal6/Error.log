@@ -1,0 +1,120 @@
+﻿12/20/2016 11:05:16 PM : Error:MovieClip() Invalid asset url 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf' actual url loaded 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf/EXF_Flash_BTHM_logoEnter.swf'
+12/20/2016 11:05:16 PM : 
+12/20/2016 11:05:16 PM : Error:Error : 没有找到 200000 这个任务
+12/20/2016 11:05:16 PM : 
+12/20/2016 11:05:16 PM : Error:m_CurGameState只有最后一个了，再pop就出错了。 没有执行DoEndStateFun可能导致其它异常
+12/20/2016 11:05:16 PM : 
+12/20/2016 11:05:16 PM : Error:Log : PushGameState函数 CurGameState = Start
+
+12/20/2016 11:05:16 PM : 
+12/20/2016 11:05:16 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:16 PM : 
+12/20/2016 11:05:16 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:16 PM : 
+12/20/2016 11:05:16 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 79772808 > 79772804]
+12/20/2016 11:05:16 PM : 
+12/20/2016 11:05:16 PM : Error:A script behaviour has a different serialization layout when loading. (Read 224 bytes but expected 220 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:16 PM : 
+12/20/2016 11:05:17 PM : Error:Log : nvyi_shoutao SetActiveWeapon True
+
+12/20/2016 11:05:17 PM : 
+12/20/2016 11:05:17 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:17 PM : 
+12/20/2016 11:05:17 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:17 PM : 
+12/20/2016 11:05:17 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 79771688 > 79771684]
+12/20/2016 11:05:17 PM : 
+12/20/2016 11:05:18 PM : Error:Error : UtilFun.GetMat go==null
+
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 79771912 > 79771908]
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:xianqing没有武器
+
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:Log : MianJu_1 SetActiveWeapon False
+
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 79770792 > 79770788]
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:Log : yaokongqi SetActiveWeapon False
+
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:Log : XiongXiangZi_bag SetActiveWeapon True
+
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 79674496 > 79674492]
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:Error : UtilFun.GetMat go==null
+
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 79771464 > 79771460]
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:Error : UtilFun.GetMat go==null
+
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 79771240 > 79771236]
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:18 PM : Error:Error : UtilFun.GetMat go==null
+
+12/20/2016 11:05:18 PM : 
+12/20/2016 11:05:19 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:19 PM : 
+12/20/2016 11:05:19 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:19 PM : 
+12/20/2016 11:05:19 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:19 PM : 
+12/20/2016 11:05:19 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+12/20/2016 11:05:19 PM : 
+12/20/2016 11:05:19 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 79772136 > 79772132]
+12/20/2016 11:05:19 PM : 
+12/20/2016 11:05:19 PM : Error:Error : UtilFun.GetMat go==null
+
+12/20/2016 11:05:19 PM : 
+12/20/2016 11:05:24 PM : Error:GetModelObj 参数go为Null
+
+12/20/2016 11:05:24 PM : 
+12/20/2016 11:05:25 PM : Error:GetModelObj 参数go为Null
+
+12/20/2016 11:05:25 PM : 
+12/20/2016 11:06:06 PM : Error:Log : PopGameState函数 CurGameState = None
+
+12/20/2016 11:06:06 PM : 
+12/20/2016 11:06:06 PM : Error:Log : PushGameState函数 CurGameState = Normal
+
+12/20/2016 11:06:06 PM : 
+12/20/2016 11:06:06 PM : Debug:小地图被迫关闭：
+12/20/2016 11:06:06 PM : Debug:(CurData == null) == False
+12/20/2016 11:06:06 PM : Debug:UtilFun.CanShowMiniMap() == False
+12/20/2016 11:06:06 PM : Error:Log : CursorTexToNormal
+
+12/20/2016 11:06:06 PM : 
