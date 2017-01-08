@@ -1,2 +1,7 @@
-345,2016-12-24T20:40:06.960(2138)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
-350,2016-12-24T20:40:07.022(2138)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FFC0AC7EA2D LogLevel: Debug
+345,2017-01-08T12:35:06.937(2402)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
+350,2017-01-08T12:35:07.204(2402)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FFD665AEA2D LogLevel: Debug
+3177,2017-01-08T13:18:07.772(180662)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
+6989,2017-01-08T13:19:55.897(188100)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+8180,2017-01-08T13:21:14.104(189243)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
+10477,2017-01-08T13:22:02.397(193409)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+10496,2017-01-08T13:22:02.431(193411)[EasyAntiCheat,ERROR] [EAC Internal]: [PushNetworkMessage] Unknown Client( 0000000000000002 )!
