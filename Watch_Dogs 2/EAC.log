@@ -1,7 +1,11 @@
-345,2017-01-08T12:35:06.937(2402)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
-350,2017-01-08T12:35:07.204(2402)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FFD665AEA2D LogLevel: Debug
-3177,2017-01-08T13:18:07.772(180662)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-6989,2017-01-08T13:19:55.897(188100)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-8180,2017-01-08T13:21:14.104(189243)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-10477,2017-01-08T13:22:02.397(193409)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-10496,2017-01-08T13:22:02.431(193411)[EasyAntiCheat,ERROR] [EAC Internal]: [PushNetworkMessage] Unknown Client( 0000000000000002 )!
+345,2017-02-01T00:40:37.246(2161)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
+350,2017-02-01T00:40:37.511(2161)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FF87C3BFA35 LogLevel: Debug
+1710,2017-02-01T00:42:21.435(5793)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
+15321,2017-02-01T00:47:09.612(22906)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+16444,2017-02-01T00:48:00.932(24700)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
+21161,2017-02-01T00:49:05.376(28471)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+22220,2017-02-01T00:49:36.515(29363)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000003 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
+24275,2017-02-01T00:49:57.641(30601)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000003 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+25359,2017-02-01T00:50:35.302(31756)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000004 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
+26625,2017-02-01T00:50:56.600(33018)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000004 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+26650,2017-02-01T00:50:56.666(33022)[EasyAntiCheat,ERROR] [EAC Internal]: [PushNetworkMessage] Unknown Client( 0000000000000004 )!
