@@ -1,490 +1,120 @@
-﻿12/24/2016 2:27:45 AM : Error:MovieClip() Invalid asset url 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf' actual url loaded 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf/EXF_Flash_BTHM_logoEnter.swf'
-12/24/2016 2:27:45 AM : 
-12/24/2016 2:27:46 AM : Error:Error : 没有找到 200000 这个任务
-12/24/2016 2:27:46 AM : 
-12/24/2016 2:27:46 AM : Error:m_CurGameState只有最后一个了，再pop就出错了。 没有执行DoEndStateFun可能导致其它异常
-12/24/2016 2:27:46 AM : 
-12/24/2016 2:27:46 AM : Error:Log : PushGameState函数 CurGameState = Start
+﻿3/19/2017 9:05:25 PM : Error:MovieClip() Invalid asset url 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf' actual url loaded 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf/EXF_Flash_BTHM_logoEnter.swf'
+3/19/2017 9:05:25 PM : 
+3/19/2017 9:05:26 PM : Error:Error : 没有找到 200000 这个任务
+3/19/2017 9:05:26 PM : 
+3/19/2017 9:05:27 PM : Error:m_CurGameState只有最后一个了，再pop就出错了。 没有执行DoEndStateFun可能导致其它异常
+3/19/2017 9:05:27 PM : 
+3/19/2017 9:05:27 PM : Error:Log : PushGameState函数 CurGameState = Start
 
-12/24/2016 2:27:46 AM : 
-12/24/2016 2:27:46 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:27 PM : 
+3/19/2017 9:05:27 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:46 AM : 
-12/24/2016 2:27:46 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:27 PM : 
+3/19/2017 9:05:27 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:46 AM : 
-12/24/2016 2:27:47 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+3/19/2017 9:05:27 PM : 
+3/19/2017 9:05:27 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79772808 > 79772804]
-12/24/2016 2:27:47 AM : 
-12/24/2016 2:27:47 AM : Error:A script behaviour has a different serialization layout when loading. (Read 224 bytes but expected 220 bytes)
+3/19/2017 9:05:27 PM : 
+3/19/2017 9:05:27 PM : Error:A script behaviour has a different serialization layout when loading. (Read 224 bytes but expected 220 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:47 AM : 
-12/24/2016 2:27:47 AM : Error:Log : nvyi_shoutao SetActiveWeapon True
+3/19/2017 9:05:27 PM : 
+3/19/2017 9:05:30 PM : Error:Log : nvyi_shoutao SetActiveWeapon True
 
-12/24/2016 2:27:47 AM : 
-12/24/2016 2:27:48 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:30 PM : 
+3/19/2017 9:05:31 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:48 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:31 PM : 
+3/19/2017 9:05:31 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:48 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+3/19/2017 9:05:31 PM : 
+3/19/2017 9:05:31 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79771688 > 79771684]
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:48 AM : Error:Error : UtilFun.GetMat go==null
+3/19/2017 9:05:31 PM : 
+3/19/2017 9:05:32 PM : Error:Error : UtilFun.GetMat go==null
 
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:48 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:32 PM : 
+3/19/2017 9:05:33 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:48 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:33 PM : 
+3/19/2017 9:05:33 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:48 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+3/19/2017 9:05:33 PM : 
+3/19/2017 9:05:33 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79771912 > 79771908]
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:48 AM : Error:xianqing没有武器
+3/19/2017 9:05:33 PM : 
+3/19/2017 9:05:34 PM : Error:xianqing没有武器
 
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:48 AM : Error:Log : MianJu_1 SetActiveWeapon False
+3/19/2017 9:05:34 PM : 
+3/19/2017 9:05:34 PM : Error:Log : MianJu_1 SetActiveWeapon False
 
-12/24/2016 2:27:48 AM : 
-12/24/2016 2:27:49 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+3/19/2017 9:05:34 PM : 
+3/19/2017 9:05:35 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79770792 > 79770788]
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:Log : yaokongqi SetActiveWeapon False
+3/19/2017 9:05:35 PM : 
+3/19/2017 9:05:35 PM : Error:Log : yaokongqi SetActiveWeapon False
 
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:Log : XiongXiangZi_bag SetActiveWeapon True
+3/19/2017 9:05:35 PM : 
+3/19/2017 9:05:35 PM : Error:Log : XiongXiangZi_bag SetActiveWeapon True
 
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+3/19/2017 9:05:35 PM : 
+3/19/2017 9:05:35 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79674496 > 79674492]
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:Error : UtilFun.GetMat go==null
+3/19/2017 9:05:35 PM : 
+3/19/2017 9:05:36 PM : Error:Error : UtilFun.GetMat go==null
 
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:36 PM : 
+3/19/2017 9:05:36 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+3/19/2017 9:05:36 PM : 
+3/19/2017 9:05:36 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79771464 > 79771460]
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:Error : UtilFun.GetMat go==null
+3/19/2017 9:05:36 PM : 
+3/19/2017 9:05:36 PM : Error:Error : UtilFun.GetMat go==null
 
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:36 PM : 
+3/19/2017 9:05:36 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+3/19/2017 9:05:36 PM : 
+3/19/2017 9:05:36 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79771240 > 79771236]
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:Error : UtilFun.GetMat go==null
+3/19/2017 9:05:36 PM : 
+3/19/2017 9:05:36 PM : Error:Error : UtilFun.GetMat go==null
 
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:36 PM : 
+3/19/2017 9:05:37 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:37 PM : 
+3/19/2017 9:05:37 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:37 PM : 
+3/19/2017 9:05:37 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+3/19/2017 9:05:37 PM : 
+3/19/2017 9:05:37 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+3/19/2017 9:05:37 PM : 
+3/19/2017 9:05:37 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79772136 > 79772132]
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:49 AM : Error:Error : UtilFun.GetMat go==null
+3/19/2017 9:05:37 PM : 
+3/19/2017 9:05:37 PM : Error:Error : UtilFun.GetMat go==null
 
-12/24/2016 2:27:49 AM : 
-12/24/2016 2:27:58 AM : Error:GetModelObj 参数go为Null
+3/19/2017 9:05:37 PM : 
+3/19/2017 9:05:55 PM : Error:GetModelObj 参数go为Null
 
-12/24/2016 2:27:58 AM : 
-12/24/2016 2:27:58 AM : Error:GetModelObj 参数go为Null
+3/19/2017 9:05:55 PM : 
+3/19/2017 9:05:56 PM : Error:GetModelObj 参数go为Null
 
-12/24/2016 2:27:58 AM : 
-12/24/2016 2:28:24 AM : Error:Log : PushGameState函数 CurGameState = Prompt
+3/19/2017 9:05:56 PM : 
+3/19/2017 9:06:14 PM : Error:Log : PopGameState函数 CurGameState = None
 
-12/24/2016 2:28:24 AM : 
-12/24/2016 2:28:26 AM : Error:Log : PopGameState函数 CurGameState = Start
+3/19/2017 9:06:14 PM : 
+3/19/2017 9:06:14 PM : Error:Log : PushGameState函数 CurGameState = Normal
 
-12/24/2016 2:28:26 AM : 
-12/24/2016 2:28:27 AM : Error:Log : PushGameState函数 CurGameState = Prompt
+3/19/2017 9:06:14 PM : 
+3/19/2017 9:06:14 PM : Debug:小地图被迫关闭：
+3/19/2017 9:06:14 PM : Debug:(CurData == null) == False
+3/19/2017 9:06:14 PM : Debug:UtilFun.CanShowMiniMap() == False
+3/19/2017 9:06:14 PM : Error:Log : CursorTexToNormal
 
-12/24/2016 2:28:27 AM : 
-12/24/2016 2:28:28 AM : Error:Log : PopGameState函数 CurGameState = Start
-
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到 200000 这个任务
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:28 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:28 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Error : 没有找到[任务指引点] 
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Log : ChangeMap 19
-
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Log : PopGameState函数 CurGameState = None
-
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:m_CurGameState只有最后一个了，再pop就出错了。 没有执行DoEndStateFun可能导致其它异常
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:29 AM : Error:Log : PushGameState函数 CurGameState = Loading
-
-12/24/2016 2:28:29 AM : 
-12/24/2016 2:28:30 AM : Error:Log : ScenesManager.OnLevelWasLoaded 19
-
-12/24/2016 2:28:30 AM : 
-12/24/2016 2:28:47 AM : Error:Undefined Queue: 'Opaque'
-12/24/2016 2:28:47 AM : 
-12/24/2016 2:28:47 AM : Error:Undefined Queue: 'Opaque'
-12/24/2016 2:28:47 AM : 
-12/24/2016 2:28:50 AM : Error:非Normal状态不处理
-12/24/2016 2:28:50 AM : 
-12/24/2016 2:29:00 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
-Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:29:00 AM : 
-12/24/2016 2:29:00 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
-Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:29:00 AM : 
-12/24/2016 2:29:00 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
-Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:29:00 AM : 
-12/24/2016 2:29:00 AM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
-Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-12/24/2016 2:29:00 AM : 
-12/24/2016 2:29:00 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
-[Position out of bounds! 79772136 > 79772132]
-12/24/2016 2:29:00 AM : 
-12/24/2016 2:29:02 AM : Error:Log : ShowLoading.Over
-
-12/24/2016 2:29:02 AM : 
-12/24/2016 2:29:02 AM : Error:PalMain.OnLoadOver
-12/24/2016 2:29:02 AM : 
-12/24/2016 2:29:03 AM : Error:Log : PopGameState函数 CurGameState = None
-
-12/24/2016 2:29:03 AM : 
-12/24/2016 2:29:03 AM : Error:Log : PushGameState函数 CurGameState = Normal
-
-12/24/2016 2:29:03 AM : 
-12/24/2016 2:29:03 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:03 AM : 
-12/24/2016 2:29:04 AM : Error:Log : weapon_M1_16_L(Clone) SetActiveWeapon True
-
-12/24/2016 2:29:04 AM : 
-12/24/2016 2:29:04 AM : Error:Log : weapon_M1_16_R(Clone) SetActiveWeapon True
-
-12/24/2016 2:29:04 AM : 
-12/24/2016 2:29:04 AM : Error:Error : UtilFun.GetRelativePath path == null
-
-
-
-12/24/2016 2:29:04 AM : 
-12/24/2016 2:29:05 AM : Error:Log : weapon_W1_14(Clone) SetActiveWeapon False
-
-12/24/2016 2:29:05 AM : 
-12/24/2016 2:29:05 AM : Error:Log : nvyi_shoutao SetActiveWeapon True
-
-12/24/2016 2:29:05 AM : 
-12/24/2016 2:29:05 AM : Error:Error : UtilFun.GetRelativePath path == null
-
-
-
-12/24/2016 2:29:05 AM : 
-12/24/2016 2:29:05 AM : Error:Error : UtilFun.GetRelativePath path == null
-
-
-
-12/24/2016 2:29:05 AM : 
-12/24/2016 2:29:06 AM : Error:Log : weapon_M2_11_zuo(Clone) SetActiveWeapon False
-
-12/24/2016 2:29:06 AM : 
-12/24/2016 2:29:06 AM : Error:Log : weapon_M2_11(Clone) SetActiveWeapon False
-
-12/24/2016 2:29:06 AM : 
-12/24/2016 2:29:06 AM : Error:Log : MianJu_1 SetActiveWeapon False
-
-12/24/2016 2:29:06 AM : 
-12/24/2016 2:29:06 AM : Error:Error : UtilFun.GetRelativePath path == null
-
-
-
-12/24/2016 2:29:06 AM : 
-12/24/2016 2:29:06 AM : Error:Log : weapon_W2_11(Clone) SetActiveWeapon True
-
-12/24/2016 2:29:06 AM : 
-12/24/2016 2:29:07 AM : Error:Error : UtilFun.GetRelativePath path == null
-
-
-
-12/24/2016 2:29:07 AM : 
-12/24/2016 2:29:07 AM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
-[Position out of bounds! 79674944 > 79674940]
-12/24/2016 2:29:07 AM : 
-12/24/2016 2:29:07 AM : Error:Log : yaokongqi SetActiveWeapon False
-
-12/24/2016 2:29:07 AM : 
-12/24/2016 2:29:07 AM : Error:Log : XiongXiangZi_bag SetActiveWeapon True
-
-12/24/2016 2:29:07 AM : 
-12/24/2016 2:29:08 AM : Error:Error : UtilFun.GetRelativePath path == null
-
-
-
-12/24/2016 2:29:08 AM : 
-12/24/2016 2:29:08 AM : Error:Error : UtilFun.GetRelativePath path == null
-
-
-
-12/24/2016 2:29:08 AM : 
-12/24/2016 2:29:08 AM : Error:Log : weapon_W3_03(Clone) SetActiveWeapon False
-
-12/24/2016 2:29:08 AM : 
-12/24/2016 2:29:08 AM : Error:Error : UtilFun.GetRelativePath path == null
-
-
-
-12/24/2016 2:29:08 AM : 
-12/24/2016 2:29:08 AM : Error:"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
-12/24/2016 2:29:08 AM : 
-12/24/2016 2:29:08 AM : Error:拾取物信息获取失败
-12/24/2016 2:29:08 AM : 
-12/24/2016 2:29:11 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:11 AM : 
-12/24/2016 2:29:11 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:11 AM : 
-12/24/2016 2:29:12 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:12 AM : 
-12/24/2016 2:29:12 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:12 AM : 
-12/24/2016 2:29:12 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:12 AM : 
-12/24/2016 2:29:12 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:12 AM : 
-12/24/2016 2:29:12 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:12 AM : 
-12/24/2016 2:29:12 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:12 AM : 
-12/24/2016 2:29:12 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:12 AM : 
-12/24/2016 2:29:12 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:12 AM : 
-12/24/2016 2:29:13 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:13 AM : 
-12/24/2016 2:29:13 AM : Error:Log : PushGameState函数 CurGameState = MainGUI
-
-12/24/2016 2:29:13 AM : 
-12/24/2016 2:29:36 AM : Error:Log : PopGameState函数 CurGameState = Normal
-
-12/24/2016 2:29:36 AM : 
-12/24/2016 2:29:36 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:36 AM : 
-12/24/2016 2:29:37 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:37 AM : 
-12/24/2016 2:29:37 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:37 AM : 
-12/24/2016 2:29:39 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:39 AM : 
-12/24/2016 2:29:39 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:39 AM : 
-12/24/2016 2:29:39 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:39 AM : 
-12/24/2016 2:29:41 AM : Error:Log : CursorTexToNormal
-
-12/24/2016 2:29:41 AM : 
-12/24/2016 2:29:41 AM : Error:Log : PushGameState函数 CurGameState = MainGUI
-
-12/24/2016 2:29:41 AM : 
-12/24/2016 2:29:44 AM : Error:Log : PushGameState函数 CurGameState = Prompt
-
-12/24/2016 2:29:44 AM : 
-12/24/2016 2:29:46 AM : Error:Log : PopGameState函数 CurGameState = MainGUI
-
-12/24/2016 2:29:46 AM : 
+3/19/2017 9:06:14 PM : 
