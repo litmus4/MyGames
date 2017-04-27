@@ -1,120 +1,120 @@
-﻿3/19/2017 9:05:25 PM : Error:MovieClip() Invalid asset url 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf' actual url loaded 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf/EXF_Flash_BTHM_logoEnter.swf'
-3/19/2017 9:05:25 PM : 
-3/19/2017 9:05:26 PM : Error:Error : 没有找到 200000 这个任务
-3/19/2017 9:05:26 PM : 
-3/19/2017 9:05:27 PM : Error:m_CurGameState只有最后一个了，再pop就出错了。 没有执行DoEndStateFun可能导致其它异常
-3/19/2017 9:05:27 PM : 
-3/19/2017 9:05:27 PM : Error:Log : PushGameState函数 CurGameState = Start
+﻿4/21/2017 10:29:28 PM : Error:MovieClip() Invalid asset url 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf' actual url loaded 'Pal_Resources/Effects/SEObjects/LDF/FLASH/EXF_Flash_BTHM_logoEnter.swf/EXF_Flash_BTHM_logoEnter.swf'
+4/21/2017 10:29:28 PM : 
+4/21/2017 10:29:30 PM : Error:Error : 没有找到 200000 这个任务
+4/21/2017 10:29:30 PM : 
+4/21/2017 10:29:30 PM : Error:m_CurGameState只有最后一个了，再pop就出错了。 没有执行DoEndStateFun可能导致其它异常
+4/21/2017 10:29:30 PM : 
+4/21/2017 10:29:30 PM : Error:Log : PushGameState函数 CurGameState = Start
 
-3/19/2017 9:05:27 PM : 
-3/19/2017 9:05:27 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:30 PM : 
+4/21/2017 10:29:30 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:27 PM : 
-3/19/2017 9:05:27 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:30 PM : 
+4/21/2017 10:29:30 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:27 PM : 
-3/19/2017 9:05:27 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+4/21/2017 10:29:30 PM : 
+4/21/2017 10:29:31 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79772808 > 79772804]
-3/19/2017 9:05:27 PM : 
-3/19/2017 9:05:27 PM : Error:A script behaviour has a different serialization layout when loading. (Read 224 bytes but expected 220 bytes)
+4/21/2017 10:29:31 PM : 
+4/21/2017 10:29:31 PM : Error:A script behaviour has a different serialization layout when loading. (Read 224 bytes but expected 220 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:27 PM : 
-3/19/2017 9:05:30 PM : Error:Log : nvyi_shoutao SetActiveWeapon True
+4/21/2017 10:29:31 PM : 
+4/21/2017 10:29:32 PM : Error:Log : nvyi_shoutao SetActiveWeapon True
 
-3/19/2017 9:05:30 PM : 
-3/19/2017 9:05:31 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:32 PM : 
+4/21/2017 10:29:34 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:31 PM : 
-3/19/2017 9:05:31 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:34 PM : 
+4/21/2017 10:29:34 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:31 PM : 
-3/19/2017 9:05:31 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+4/21/2017 10:29:34 PM : 
+4/21/2017 10:29:34 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79771688 > 79771684]
-3/19/2017 9:05:31 PM : 
-3/19/2017 9:05:32 PM : Error:Error : UtilFun.GetMat go==null
+4/21/2017 10:29:34 PM : 
+4/21/2017 10:29:35 PM : Error:Error : UtilFun.GetMat go==null
 
-3/19/2017 9:05:32 PM : 
-3/19/2017 9:05:33 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:35 PM : 
+4/21/2017 10:29:35 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:33 PM : 
-3/19/2017 9:05:33 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:35 PM : 
+4/21/2017 10:29:35 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:33 PM : 
-3/19/2017 9:05:33 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+4/21/2017 10:29:35 PM : 
+4/21/2017 10:29:36 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79771912 > 79771908]
-3/19/2017 9:05:33 PM : 
-3/19/2017 9:05:34 PM : Error:xianqing没有武器
+4/21/2017 10:29:36 PM : 
+4/21/2017 10:29:36 PM : Error:xianqing没有武器
 
-3/19/2017 9:05:34 PM : 
-3/19/2017 9:05:34 PM : Error:Log : MianJu_1 SetActiveWeapon False
+4/21/2017 10:29:36 PM : 
+4/21/2017 10:29:36 PM : Error:Log : MianJu_1 SetActiveWeapon False
 
-3/19/2017 9:05:34 PM : 
-3/19/2017 9:05:35 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+4/21/2017 10:29:36 PM : 
+4/21/2017 10:29:37 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79770792 > 79770788]
-3/19/2017 9:05:35 PM : 
-3/19/2017 9:05:35 PM : Error:Log : yaokongqi SetActiveWeapon False
+4/21/2017 10:29:37 PM : 
+4/21/2017 10:29:37 PM : Error:Log : yaokongqi SetActiveWeapon False
 
-3/19/2017 9:05:35 PM : 
-3/19/2017 9:05:35 PM : Error:Log : XiongXiangZi_bag SetActiveWeapon True
+4/21/2017 10:29:37 PM : 
+4/21/2017 10:29:37 PM : Error:Log : XiongXiangZi_bag SetActiveWeapon True
 
-3/19/2017 9:05:35 PM : 
-3/19/2017 9:05:35 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+4/21/2017 10:29:37 PM : 
+4/21/2017 10:29:37 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79674496 > 79674492]
-3/19/2017 9:05:35 PM : 
-3/19/2017 9:05:36 PM : Error:Error : UtilFun.GetMat go==null
+4/21/2017 10:29:37 PM : 
+4/21/2017 10:29:37 PM : Error:Error : UtilFun.GetMat go==null
 
-3/19/2017 9:05:36 PM : 
-3/19/2017 9:05:36 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:37 PM : 
+4/21/2017 10:29:38 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:36 PM : 
-3/19/2017 9:05:36 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+4/21/2017 10:29:38 PM : 
+4/21/2017 10:29:38 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79771464 > 79771460]
-3/19/2017 9:05:36 PM : 
-3/19/2017 9:05:36 PM : Error:Error : UtilFun.GetMat go==null
+4/21/2017 10:29:38 PM : 
+4/21/2017 10:29:38 PM : Error:Error : UtilFun.GetMat go==null
 
-3/19/2017 9:05:36 PM : 
-3/19/2017 9:05:36 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:38 PM : 
+4/21/2017 10:29:38 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:36 PM : 
-3/19/2017 9:05:36 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+4/21/2017 10:29:38 PM : 
+4/21/2017 10:29:38 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79771240 > 79771236]
-3/19/2017 9:05:36 PM : 
-3/19/2017 9:05:36 PM : Error:Error : UtilFun.GetMat go==null
+4/21/2017 10:29:38 PM : 
+4/21/2017 10:29:38 PM : Error:Error : UtilFun.GetMat go==null
 
-3/19/2017 9:05:36 PM : 
-3/19/2017 9:05:37 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:38 PM : 
+4/21/2017 10:29:39 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:37 PM : 
-3/19/2017 9:05:37 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:39 PM : 
+4/21/2017 10:29:39 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:37 PM : 
-3/19/2017 9:05:37 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:39 PM : 
+4/21/2017 10:29:39 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:37 PM : 
-3/19/2017 9:05:37 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+4/21/2017 10:29:39 PM : 
+4/21/2017 10:29:39 PM : Error:A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-3/19/2017 9:05:37 PM : 
-3/19/2017 9:05:37 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
+4/21/2017 10:29:39 PM : 
+4/21/2017 10:29:39 PM : Error:The file 'E:/ColorPage/Pal6/Pal6_Data/resources.assets' is corrupted! Remove it and launch unity again!
 [Position out of bounds! 79772136 > 79772132]
-3/19/2017 9:05:37 PM : 
-3/19/2017 9:05:37 PM : Error:Error : UtilFun.GetMat go==null
+4/21/2017 10:29:39 PM : 
+4/21/2017 10:29:39 PM : Error:Error : UtilFun.GetMat go==null
 
-3/19/2017 9:05:37 PM : 
-3/19/2017 9:05:55 PM : Error:GetModelObj 参数go为Null
+4/21/2017 10:29:39 PM : 
+4/21/2017 10:29:52 PM : Error:GetModelObj 参数go为Null
 
-3/19/2017 9:05:55 PM : 
-3/19/2017 9:05:56 PM : Error:GetModelObj 参数go为Null
+4/21/2017 10:29:52 PM : 
+4/21/2017 10:29:53 PM : Error:GetModelObj 参数go为Null
 
-3/19/2017 9:05:56 PM : 
-3/19/2017 9:06:14 PM : Error:Log : PopGameState函数 CurGameState = None
+4/21/2017 10:29:53 PM : 
+4/21/2017 10:30:09 PM : Error:Log : PopGameState函数 CurGameState = None
 
-3/19/2017 9:06:14 PM : 
-3/19/2017 9:06:14 PM : Error:Log : PushGameState函数 CurGameState = Normal
+4/21/2017 10:30:09 PM : 
+4/21/2017 10:30:09 PM : Error:Log : PushGameState函数 CurGameState = Normal
 
-3/19/2017 9:06:14 PM : 
-3/19/2017 9:06:14 PM : Debug:小地图被迫关闭：
-3/19/2017 9:06:14 PM : Debug:(CurData == null) == False
-3/19/2017 9:06:14 PM : Debug:UtilFun.CanShowMiniMap() == False
-3/19/2017 9:06:14 PM : Error:Log : CursorTexToNormal
+4/21/2017 10:30:09 PM : 
+4/21/2017 10:30:09 PM : Debug:小地图被迫关闭：
+4/21/2017 10:30:09 PM : Debug:(CurData == null) == False
+4/21/2017 10:30:09 PM : Debug:UtilFun.CanShowMiniMap() == False
+4/21/2017 10:30:09 PM : Error:Log : CursorTexToNormal
 
-3/19/2017 9:06:14 PM : 
+4/21/2017 10:30:09 PM : 
