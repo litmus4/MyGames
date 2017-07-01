@@ -1,6 +1,2 @@
-366,2017-02-26T21:45:03.693(2868)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
-371,2017-02-26T21:45:03.885(2868)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FFDB57549E3 LogLevel: Debug
-1588,2017-02-26T21:48:45.515(13573)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-7345,2017-02-26T21:51:48.196(23720)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-8423,2017-02-26T21:52:21.942(24718)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-9568,2017-02-26T21:52:36.135(25502)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+522,2017-06-20T23:51:18.851(2181)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
+527,2017-06-20T23:51:18.927(2181)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FF927CC1FA8 LogLevel: Debug

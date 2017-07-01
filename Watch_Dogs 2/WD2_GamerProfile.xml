@@ -1,6 +1,6 @@
 <GamerProfile bFirstUplayBoot="0" bFirstMPBoot="1" bNeverShowUplayFlow="1" bAskAgainLaterToS="0" NbTimesUserWasAskedForPremiumMembership="0">
 	<SoundProfile MusicEnabled="1" GlobalVolume="100" MusicVolume="100" AutoplayMusicInVehicles="1" VoiceChatEnabled="1" VoiceChatPlaybackVolume="50" ControllerSpeakerEnabled="0" PushToTalkEnabled="0" />
-	<RenderProfile AdapterIndex="0" OutputIndex="0" WindowPosX="34" WindowPosY="32" WindowWidth="1366" WindowHeight="768" IsWindowMaximized="0" FullscreenWidth="1440" FullscreenHeight="900" ForceAspectRatio="0" Quality="pc_3" QualityEditor="pc_editor" WindowMode="0" Force16_9="0" UseMonitorAspectRatioInFullscreen="0" FpsLimit="70" ForceWidescreen="0" WidescreenFOV="0" OutputScalingFactor="1" AspectRatio="0" VSync="0" RefreshRateNumerator="0" RefreshRateDenominator="0" MaxDriverBufferedFrames="0" IsCalibrationSetup="0" ClustersZPassMaxLOD="1" NewBrightness="1" Contrast_v3="1" Sharpness="0" NewGammaRamp="1" GammaRampR="1" GammaRampG="1" GammaRampB="1" SafeFrameRatio="0" FovScale="1" RollbackAdapterIndex="-1" MayNeedAdapterRollback="0" MenuPositionMonitor="-2" MultimonitorHUD="0" MultithreadedRenderEnabled="1">
+	<RenderProfile AdapterIndex="0" OutputIndex="0" WindowPosX="33" WindowPosY="35" WindowWidth="1366" WindowHeight="768" IsWindowMaximized="0" FullscreenWidth="1440" FullscreenHeight="900" ForceAspectRatio="0" Quality="pc_3" QualityEditor="pc_editor" WindowMode="0" Force16_9="0" UseMonitorAspectRatioInFullscreen="0" FpsLimit="70" ForceWidescreen="0" WidescreenFOV="0" OutputScalingFactor="1" AspectRatio="0" VSync="0" RefreshRateNumerator="0" RefreshRateDenominator="0" MaxDriverBufferedFrames="0" IsCalibrationSetup="0" ClustersZPassMaxLOD="1" NewBrightness="1" Contrast_v3="1" Sharpness="0" NewGammaRamp="1" GammaRampR="1" GammaRampG="1" GammaRampB="1" SafeFrameRatio="0" FovScale="1" RollbackAdapterIndex="-1" MayNeedAdapterRollback="0" MenuPositionMonitor="-2" MultimonitorHUD="0" MultithreadedRenderEnabled="1">
 		<CustomQuality>
 			<quality ResolutionX="1920" ResolutionY="1080" EnvironmentQuality="pc_3" AntiPortalQuality="pc_4" PostFxQuality="pc_2" TextureQuality="pc_4" TextureResolutionQuality="pc_2" WaterQuality="pc_2" ParaboloidReflectionQuality="pc_2" ScreenspaceReflectionQuality="pc_2" DepthPassQuality="pc_2" VegetationQuality="pc_4" TerrainQuality="pc_4" GeometryQuality="pc_3" LodDitheringQuality="pc" ShadowQuality="pc_4" RoadQuality="pc" EditorQuality="" ParticlesQuality="pc_2" ConfettiQuality="pc_2" DeferredFxQuality="console" HDR="1" HighPrecisionNormal="1" RenderSplashes="1" RenderRain="0" FogVolumesEnabled="0" AAMode="5" AOMode="7" MultiSampleMode="0" HeadlightShadowsLevel="1" TemporalFiltering="1" ConfettiParticles="1" ExtendDrawDistance="1" DepthOfField="0" MotionBlur="1" Bloom="1" OptimizedDepthOfField="1" OptimizedMotionBlur="0" id="pc_custom" />
 		</CustomQuality>
@@ -245,12 +245,14 @@
 			<Control PrimaryBinding_DeviceID="%$646CA0E7" PrimaryBinding_ControlID="%$06B9DF6F" AlternativeBinding_DeviceID="%$FFFFFFFF" AlternativeBinding_ControlID="%$FFFFFFFF" ControlScheme_ContextID="%$86A9338F" id="9223372049117222866" />
 		</ControlMap>
 	</ControlMapProfile>
-	<UIProfile>
+	<UIProfile IESPBack="18446744073709551615">
 		<PatchNoteIds>
 			<PatchNoteId PatchNoteId="9223372077013263683" />
+			<PatchNoteId PatchNoteId="9223372079752380708" />
+			<PatchNoteId PatchNoteId="9223372079752391585" />
 		</PatchNoteIds>
 	</UIProfile>
 	<GameConfigNative acceleration="0" accelerationScale="0.2" sensitivityIndex="13" sensitivityInVehicleIndex="10" invertX="0" invertY="0" disableAutoCenterInVehicle="0" disableAutoCenterOnFoot="0" autoCenterLagIndex="10" hackAutoAimAssistEdge="0.38" steeringFactorsIndex="6" sprintMode="0" walkMode="0" aimMode="0" inventoryGridMode="0" mustDrawSelectedWeapon="1" emotionGridMode="0" trafficeSpeedMode="0" useTooltips="1" keyboardLayout="1024">
-		<TobiiEyeConfig isEnabled="1" isCoverAtGazeEnabled="1" isUsingHackAtGaze="1" isInfiniteScreenEnabled="1" isAimAtGazeEnabled="1" isFireAtGazeEnabled="1" eview_size="0.5" eview_sensitivity="0.5" deadzone="0.15" />
+		<TobiiEyeConfig isEnabled="1" isCoverAtGazeEnabled="1" isUsingHackAtGaze="1" isInfiniteScreenEnabled="1" isAimAtGazeEnabled="1" isFireAtGazeEnabled="1" isDynamicLightEnabled="1" isCleanUIEnabled="1" eview_size="0.5" eview_sensitivity="0.5" deadzone="0.15" />
 	</GameConfigNative>
 </GamerProfile>
