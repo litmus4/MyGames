@@ -1,29 +1,8 @@
-510,2017-07-02T00:40:47.668(2129)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
-515,2017-07-02T00:40:47.782(2129)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FF926591FA8 LogLevel: Debug
-2268,2017-07-02T00:42:25.782(6023)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-18463,2017-07-02T00:49:55.199(34742)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-19114,2017-07-02T00:50:08.366(35442)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-34942,2017-07-02T01:03:09.190(80999)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000002 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-36156,2017-07-02T01:03:52.499(82157)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000003 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-42782,2017-07-02T01:05:23.187(87717)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000003 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-43947,2017-07-02T01:06:04.249(88773)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000004 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-47259,2017-07-02T01:07:19.793(93239)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000004 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-48708,2017-07-02T01:12:37.438(113664)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000005 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-48711,2017-07-02T01:12:37.438(113664)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000006 PlayerGUID: a674936e-0ed6-46a9-8848-c3ebe8895433 PlayerIP: 88.98.207.175 OwnerGUID: a674936e-0ed6-46a9-8848-c3ebe8895433 PlayerName: N/A
-48713,2017-07-02T01:12:37.546(113665)[EasyAntiCheat,INFO] [EAC]: Kick is required, clientId = 3, Connection timed out
-48736,2017-07-02T01:12:37.605(113666)[EasyAntiCheat,INFO] [EAC]: Kick is required, clientId = 4, Connection timed out
-48790,2017-07-02T01:12:37.639(113666)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000006 PlayerGUID: a674936e-0ed6-46a9-8848-c3ebe8895433
-48910,2017-07-02T01:12:37.783(113672)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000005 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-49174,2017-07-02T01:12:38.262(113692)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000007 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-51721,2017-07-02T01:13:32.253(116284)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000007 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-52860,2017-07-02T01:14:21.407(117679)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000008 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-53686,2017-07-02T01:14:25.952(117870)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000008 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-60006,2017-07-02T01:15:55.677(122190)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000009 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-60008,2017-07-02T01:15:55.677(122190)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 000000000000000A PlayerGUID: 482296f6-5bff-42bd-957d-c09b0412a8ea PlayerIP: 123.114.161.228 OwnerGUID: 482296f6-5bff-42bd-957d-c09b0412a8ea PlayerName: N/A
-60017,2017-07-02T01:15:55.693(122191)[EasyAntiCheat,INFO] [EAC]: Kick is required, clientId = 7, Connection timed out
-60047,2017-07-02T01:15:55.726(122192)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 000000000000000A PlayerGUID: 482296f6-5bff-42bd-957d-c09b0412a8ea
-60148,2017-07-02T01:15:55.810(122198)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000009 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
-60174,2017-07-02T01:15:55.844(122200)[EasyAntiCheat,ERROR] [EAC Internal]: [PushNetworkMessage] Unknown Client( 0000000000000009 )!
-60183,2017-07-02T01:15:55.860(122201)[EasyAntiCheat,ERROR] [EAC Internal]: [PushNetworkMessage] Unknown Client( 0000000000000009 )!
-60912,2017-07-02T01:15:56.527(122241)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 000000000000000B PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 221.216.50.209 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-61275,2017-07-02T01:15:58.749(122374)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 000000000000000B PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+499,2017-10-05T23:37:35.222(2196)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
+504,2017-10-05T23:37:35.316(2196)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FFB57B33830 LogLevel: Debug
+1852,2017-10-05T23:38:14.624(3408)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 123.113.27.196 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
+2317,2017-10-05T23:38:16.113(3485)[EasyAntiCheat,INFO] [EAC Internal]: [Register Client] Success (1/2). Client: 0000000000000001
+2318,2017-10-05T23:38:16.113(3485)[EasyAntiCheat,INFO] [EAC Internal]: [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Message: Client authenticated
+2545,2017-10-05T23:38:17.594(3586)[EasyAntiCheat,INFO] [EAC Internal]: [Register Client] Success (2/2). Client: 0000000000000001
+2546,2017-10-05T23:38:17.594(3586)[EasyAntiCheat,INFO] [EAC Internal]: [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely
+3843,2017-10-05T23:38:41.458(5196)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f

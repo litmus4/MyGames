@@ -250,6 +250,7 @@
 			<PatchNoteId PatchNoteId="9223372077013263683" />
 			<PatchNoteId PatchNoteId="9223372079752380708" />
 			<PatchNoteId PatchNoteId="9223372079752391585" />
+			<PatchNoteId PatchNoteId="9223372079752392604" />
 		</PatchNoteIds>
 	</UIProfile>
 	<GameConfigNative acceleration="0" accelerationScale="0.2" sensitivityIndex="13" sensitivityInVehicleIndex="10" invertX="0" invertY="0" disableAutoCenterInVehicle="0" disableAutoCenterOnFoot="0" autoCenterLagIndex="10" hackAutoAimAssistEdge="0.38" steeringFactorsIndex="6" sprintMode="0" walkMode="0" aimMode="0" inventoryGridMode="0" mustDrawSelectedWeapon="1" emotionGridMode="0" trafficeSpeedMode="0" useTooltips="1" keyboardLayout="1024">
