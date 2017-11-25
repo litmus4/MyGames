@@ -1,8 +1,8 @@
-499,2017-10-05T23:37:35.222(2196)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
-504,2017-10-05T23:37:35.316(2196)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FFB57B33830 LogLevel: Debug
-1852,2017-10-05T23:38:14.624(3408)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 123.113.27.196 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
-2317,2017-10-05T23:38:16.113(3485)[EasyAntiCheat,INFO] [EAC Internal]: [Register Client] Success (1/2). Client: 0000000000000001
-2318,2017-10-05T23:38:16.113(3485)[EasyAntiCheat,INFO] [EAC Internal]: [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Message: Client authenticated
-2545,2017-10-05T23:38:17.594(3586)[EasyAntiCheat,INFO] [EAC Internal]: [Register Client] Success (2/2). Client: 0000000000000001
-2546,2017-10-05T23:38:17.594(3586)[EasyAntiCheat,INFO] [EAC Internal]: [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely
-3843,2017-10-05T23:38:41.458(5196)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
+429,2017-11-25T22:37:15.501(2917)[EasyAntiCheat,INFO] EAC: Successfully initialized EAC
+434,2017-11-25T22:37:15.691(2917)[EasyAntiCheat,INFO] [EAC Internal]: [SetLogCallback] Procedure: 00007FFD5D253830 LogLevel: Debug
+1848,2017-11-25T22:41:54.155(15364)[EasyAntiCheat,INFO] [EAC Internal]: [RegisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerIP: 123.113.26.117 OwnerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f PlayerName: N/A
+2281,2017-11-25T22:41:56.363(15410)[EasyAntiCheat,INFO] [EAC Internal]: [Register Client] Success (1/2). Client: 0000000000000001
+2282,2017-11-25T22:41:56.363(15410)[EasyAntiCheat,INFO] [EAC Internal]: [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Message: Client authenticated
+2441,2017-11-25T22:41:57.929(15497)[EasyAntiCheat,INFO] [EAC Internal]: [Register Client] Success (2/2). Client: 0000000000000001
+2442,2017-11-25T22:41:57.929(15497)[EasyAntiCheat,INFO] [EAC Internal]: [QueueClientUpdate] Client: 0000000000000001 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely
+4344,2017-11-25T22:42:28.436(17734)[EasyAntiCheat,INFO] [EAC Internal]: [UnregisterClient] Client: 0000000000000001 PlayerGUID: 95e1e646-17eb-4495-9be7-6be7b441269f
