@@ -1,35 +1,191 @@
-﻿10/19/2017 2:43:27 AM : Error:Mission 200000 not found
-10/19/2017 2:43:27 AM : 
-10/19/2017 2:43:28 AM : Error:Pop UI not match! witch current=Main (MoviesManager) and poping target=Panel_Start (SoftStar.Pal6.UI.UIStart)
-10/19/2017 2:43:28 AM : 
-10/19/2017 2:43:28 AM : Error:Error : _moviePlayer.OutputTexture == null
-10/19/2017 2:43:28 AM : 
-10/19/2017 2:43:28 AM : Error:Error : _moviePlayer.OutputTexture == null
-10/19/2017 2:43:28 AM : 
-10/19/2017 2:43:28 AM : Error:Error : _moviePlayer.OutputTexture == null
-10/19/2017 2:43:28 AM : 
-10/19/2017 2:43:28 AM : Error:Error : _moviePlayer.OutputTexture == null
-10/19/2017 2:43:28 AM : 
-10/19/2017 2:43:29 AM : Error:Error : _moviePlayer.OutputTexture == null
-10/19/2017 2:43:29 AM : 
-10/19/2017 2:43:29 AM : Error:Error : _moviePlayer.OutputTexture == null
-10/19/2017 2:43:29 AM : 
-10/19/2017 2:43:29 AM : Error:Error : UtilFun.GetMat go==null
-10/19/2017 2:43:29 AM : 
-10/19/2017 2:43:30 AM : Error:Error : UtilFun.GetMat go==null
-10/19/2017 2:43:30 AM : 
-10/19/2017 2:43:31 AM : Error:Error : UtilFun.GetMat go==null
-10/19/2017 2:43:31 AM : 
-10/19/2017 2:43:32 AM : Error:xianqing没有武器
-10/19/2017 2:43:32 AM : 
-10/19/2017 2:43:34 AM : Error:Error : UtilFun.GetMat go==null
-10/19/2017 2:43:34 AM : 
-10/19/2017 2:44:54 AM : Error:Error : _moviePlayer.OutputTexture == null
-10/19/2017 2:44:54 AM : 
-10/19/2017 2:44:54 AM : Error:Error : _moviePlayer.OutputTexture == null
-10/19/2017 2:44:54 AM : 
-10/19/2017 2:45:18 AM : Error:Pop UI not match! witch current=SoftStar.Pal6.UI.UIManager and poping target=Panel_Start_Load (SoftStar.Pal6.UI.UILoad)
-10/19/2017 2:45:18 AM : 
-10/19/2017 2:45:20 AM : Debug:小地图被迫关闭：
-10/19/2017 2:45:20 AM : Debug:(CurData == null) == False
-10/19/2017 2:45:20 AM : Debug:UtilFun.CanShowMiniMap() == False
+﻿5/2/2018 5:21:01 PM : Error:Mission 200000 not found
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:01 PM : Error:3018:System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.UInt64,System.String].get_Item (UInt64 key) [0x00000] in <filename unknown>:0 
+  at SoftStar.Langue.get_string (UInt64 GUID, System.String SavePath) [0x00000] in <filename unknown>:0 
+   at SoftStar.Langue.ReLoad()
+   at SoftStar.Langue.Initialize(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Langue..ctor(UInt64 newGUID, System.String newSavePath)
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.Init()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.get_Items()
+   at SoftStar.Pal6.UI.UIInformation_StrangeNews_Item.ReStart()
+   at SoftStar.Pal6.PalMain.ReStart()
+   at StartInit.Init()
+   at StartInit.Awake()
+5/2/2018 5:21:01 PM : 
+5/2/2018 5:21:03 PM : Error:Pop UI not match! witch current=Main (MoviesManager) and poping target=Panel_Start (SoftStar.Pal6.UI.UIStart)
+5/2/2018 5:21:03 PM : 
+5/2/2018 5:21:03 PM : Error:Error : _moviePlayer.OutputTexture == null
+5/2/2018 5:21:03 PM : 
+5/2/2018 5:21:03 PM : Error:Error : _moviePlayer.OutputTexture == null
+5/2/2018 5:21:03 PM : 
+5/2/2018 5:21:11 PM : Error:Error : _moviePlayer.OutputTexture == null
+5/2/2018 5:21:11 PM : 
+5/2/2018 5:21:11 PM : Error:Error : _moviePlayer.OutputTexture == null
+5/2/2018 5:21:11 PM : 
+5/2/2018 5:21:11 PM : Error:Error : UtilFun.GetMat go==null
+5/2/2018 5:21:11 PM : 
+5/2/2018 5:21:11 PM : Error:Error : _moviePlayer.OutputTexture == null
+5/2/2018 5:21:11 PM : 
+5/2/2018 5:21:11 PM : Error:Error : _moviePlayer.OutputTexture == null
+5/2/2018 5:21:11 PM : 
+5/2/2018 5:21:12 PM : Error:xianqing没有武器
+5/2/2018 5:21:12 PM : 
+5/2/2018 5:21:13 PM : Error:Error : _moviePlayer.OutputTexture == null
+5/2/2018 5:21:13 PM : 
+5/2/2018 5:21:13 PM : Error:Error : _moviePlayer.OutputTexture == null
+5/2/2018 5:21:13 PM : 
+5/2/2018 5:21:14 PM : Error:Error : UtilFun.GetMat go==null
+5/2/2018 5:21:14 PM : 
+5/2/2018 5:21:16 PM : Error:Error : UtilFun.GetMat go==null
+5/2/2018 5:21:16 PM : 
+5/2/2018 5:21:16 PM : Error:Error : UtilFun.GetMat go==null
+5/2/2018 5:21:16 PM : 
+5/2/2018 5:21:28 PM : Error:Pop UI not match! witch current=SoftStar.Pal6.UI.UIManager and poping target=Panel_Start_Load (SoftStar.Pal6.UI.UILoad)
+5/2/2018 5:21:28 PM : 
+5/2/2018 5:21:48 PM : Debug:小地图被迫关闭：
+5/2/2018 5:21:48 PM : Debug:(CurData == null) == False
+5/2/2018 5:21:48 PM : Debug:UtilFun.CanShowMiniMap() == False
